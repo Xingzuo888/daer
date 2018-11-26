@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;面板设计.Pane.java&apos; to &apos;Exercise14_20.java&apos;&#x0D;&#x0A;- Original project: &apos;面板设计&apos;&#x0D;&#x0A;- Original element: &apos;面板设计.Pane.java&apos;&#x0D;&#x0A;- Renamed element: &apos;面板设计.Exercise14_20.java&apos;" description="Rename compilation unit &apos;Pane.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;面板设计{Pane.java" name="Exercise14_20.java" references="false" stamp="1513063168287" version="1.0"/>
+</session>

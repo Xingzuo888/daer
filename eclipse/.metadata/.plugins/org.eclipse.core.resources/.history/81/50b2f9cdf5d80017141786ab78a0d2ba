@@ -1,0 +1,8 @@
+package √Ê∞Â…Ëº∆;
+
+import org.omg.CORBA.portable.ApplicationException;
+
+public class   extends ApplicationException{
+	
+	
+}

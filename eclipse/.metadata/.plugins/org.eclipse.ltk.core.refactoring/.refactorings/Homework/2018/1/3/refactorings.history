@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;垃圾&apos; to &apos;Laji&apos;&#x0D;&#x0A;- Original project: &apos;Homework&apos;&#x0D;&#x0A;- Original element: &apos;Homework/src/垃圾&apos;&#x0D;&#x0A;- Renamed element: &apos;Homework/src/Laji&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;垃圾&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;垃圾" name="Laji" qualified="false" references="true" stamp="1515935632046" textual="false" version="1.0"/>
+</session>
